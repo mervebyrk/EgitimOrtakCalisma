@@ -16,7 +16,7 @@
 
 - [Algoritma Nedir ?](konular/httplife.md)
 
-- [RootName Server](konular/httplife.md)
+- [RootName Server](konular/rootname.md)
 
 - [DNS Nasıl Çalışır?](konular/httplife.md)
 
